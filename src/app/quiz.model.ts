@@ -11,7 +11,8 @@ export class Quiz {
           public label: string,
           public name: string,
           public description: string,
-          public fileName: string) { }
+          public fileName: string
+     ) { }
 }
 
 export class Answers {
