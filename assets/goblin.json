@@ -1,0 +1,47 @@
+[
+     {
+       "label": "it is assumed that the goblin shark is sluggish in nature due to which physical characteristics?",
+       "choices": [
+         {"value": "flat, elongated snout", "correct": false},
+         {"value": "small fins and flabby body", "correct": true},
+         {"value": "highly protrusible jaws containing nail-like teeth", "correct": false},
+         {"value": "pink skin", "correct": false}
+       ]
+     },
+     {
+       "label": "what is the goblin shark's scientific name?",
+       "choices": [
+         {"value": "Triakis semifasciata", "correct": false},
+         {"value": "Sphyrna lewini", "correct": false},
+         {"value": "Orectolobus maculatus", "correct": false},
+         {"value": "Mitsukurina owstoni", "correct": true}
+       ]
+     },
+     {
+      "label": "what is true of the goblin shark's eyes?",
+      "choices": [
+        {"value": "they lack protective nictating membranes", "correct": true},
+        {"value": "they have multiple protective nictating membranes", "correct": false},
+        {"value": "the spectrum of color visible to them is identical to that of humans", "correct": false},
+        {"value": "their eyes are conical in shape and extend deep into their skull", "correct": false}
+      ]
+    },
+    {
+      "label": "how long was the largest goblin shark to have been found?",
+      "choices": [
+        {"value": "50ft", "correct": false},
+        {"value": "5ft", "correct": false},
+        {"value": "20ft", "correct": true},
+        {"value": "12ft", "correct": false}
+      ]
+    },
+    {
+      "label": "how many rows of teeth does the goblin shark typically have?",
+      "choices": [
+        {"value": "10-34", "correct": false},
+        {"value": "31-62", "correct": true},
+        {"value": "45-81", "correct": false},
+        {"value": "77-102", "correct": false}
+      ]
+    }
+   ]
